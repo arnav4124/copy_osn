@@ -1,0 +1,4 @@
+    backup2
+    dir_rzuni/dir_eqfej
+    dir_rzuni/dir_eqfej/file_wux.txt
+    dir_rzuni/dir_aqmhk

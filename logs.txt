@@ -1,0 +1,34 @@
+Logs file created successfully...
+
+Response received from Client, ip: 127.0.0.1, port: 57122
+Data received: 127.0.0.1
+
+Response received from Storage Server, ip: 127.0.0.1, port: 8114
+Data received:     backup1     dir_bzaca     dir_bzaca/file_ofr.txt     dir_bzaca/file_qsw.txt     dir_bzaca/file_uag.txt     dir_bzaca/dir_ccftl/dir_hbsfj     dir_qkdez/dir_htcrv/dir_mrrcz     dir_qkdez/dir_htcrv/dir_mrrcz/file_imz.txt 
+
+Response received from Client, ip: 127.0.0.1, port: 57130
+Data received: 127.0.0.1
+
+Response received from Storage Server, ip: 127.0.0.1, port: 8116
+Data received:     backup2     dir_rzuni/dir_eqfej     dir_rzuni/dir_eqfej/file_wux.txt     dir_rzuni/dir_aqmhk 
+
+Response received from Client, ip: 127.0.0.1, port: 57136
+Data received: 127.0.0.1
+
+Response received from Storage Server, ip: 127.0.0.1, port: 8118
+Data received:     backup3     dir_ctpcj     dir_ctpcj/dir_apsck     dir_ctpcj/dir_apsck/file_hwa.txt     dir_ctpcj/dir_apsck/file_rkn.txt     dir_ctpcj/dir_hfccx     dir_ctpcj/dir_hfccx/here.tx 
+
+Response received from Client, ip: 127.0.0.1, port: 33894
+Data received: dir_bzaca/file_uag.txt
+
+Response received from Client, ip: 127.0.0.1, port: 36532
+Data received: dir_bzaca/file_uag.txt
+
+Response received from Client, ip: 127.0.0.1, port: 46746
+Data received: dir_bzaca/file_uag.txt
+
+Response received from Client, ip: 127.0.0.1, port: 55074
+Data received: dir_bzaca/file_uag.txt
+
+Response received from Client, ip: 127.0.0.1, port: 48098
+Data received: dir_bzaca/file_uag.txt
